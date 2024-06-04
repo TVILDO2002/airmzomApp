@@ -1,0 +1,37 @@
+{
+    "global": {
+        "registration": "Registration",
+        "login": "Login",
+        "name": "Name",
+        "password": "Password",
+        "email": "Email",
+        "username": "Username",
+        "confirm": "Confirm Password",
+        "address": "Address",
+        "number": "Phone Number",
+        "register": "Register",
+        "form": "Registration Form",
+        "profile": "Profile",
+        "conf" : "Confirm",
+        "match": "Passwords do not match",
+        "change": "Change Password",
+        "in": "Login",
+        "home": "Home",
+        "add": "Add Device",
+        "logout": "Log Out",
+        "give" : "Give Device Name",
+        "mac": "Enter Device's ID",
+        "ms": "Device's ID - ",
+        "time": "Last update time",
+        "temperature" : "Temperature - ",
+        "humidity" : "Humidity - ",
+        "fahrenheit" : "Fahrenheit - ",
+        "eCO2" : "eCO2 - ",
+        "cO2" : "CO2 - ",
+        "TVOC" : "Raw TVOC - ",
+        "h2" : "Raw H2 - ",
+        "ethanol" : "Raw Ethanol - ",
+        "dust" : "Dust - "
+    }
+  }
+  
